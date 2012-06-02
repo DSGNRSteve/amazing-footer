@@ -1,0 +1,60 @@
+body { 
+  background: #fff;
+  background-attachment:fixed;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #333;
+  font-size: 14px;
+  font-weight: normal;
+  padding: 0;
+  margin: 0;
+  }
+
+/* =================== */
+/* = Header / Footer = */
+/* =================== */		
+
+#footer { height: 295px; }
+		
+#footer-inside {
+  width: 100%;
+  position: fixed;
+  left: 0;
+  z-index: 1;
+  }
+
+#header-inside { top: 0; }
+
+#footer-inside { bottom: 0; }
+	
+#footer-edge { height: 11px; }
+
+#footer-edge { background: url('../../images/site/bottom_edge_4.png') repeat-x; }
+
+		
+/* ================== */
+/* = Page Centering = */
+/* ================== */	
+		
+#footer-center, #container-center { margin: 0 auto; }
+		
+#footer-center, #container-center {
+  width: 960px;
+  padding: 27px 0 25px 0;
+  }
+
+	
+/* ========================== */
+/* = Primary Page Container = */
+/* ========================== */
+	
+#container {
+  position: relative;
+  z-index: 100;
+  width: 100%;
+  }
+	
+  #container-content {
+  background: #fff;
+  width: 100%;
+  }
+		
