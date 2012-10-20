@@ -1,1 +1,5 @@
-A sweet way to display a footer. 
+A sweet way to display a footer.
+
+This structure hides the footer behind the body section so that it reveals on scroll at the bottom of the page.
+
+Example: http://www.stevezimmerman.is/experimenting-with/amazing-footer/
